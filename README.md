@@ -4,7 +4,9 @@ CSS Shortcuts
 
 # Set Responsive banner image
 
-.home_section{
+.home_section 
+{
+
     background: url("../images/home_banner.jpg") no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -15,11 +17,8 @@ CSS Shortcuts
     padding: 0 !important;
 }
 
- <div id="top-banner" class="section" data-section="top-banner">
-                <div class="home_section">
 
-                </div>
-            </div>
+<div id="top-banner" class="section" data-section="top-banner"><div class="home_section"></div></div>
 
 
 # Set Responsive View
